@@ -318,6 +318,8 @@ void RGB_Demo_Rainbow(void)
 <br>
 <img width="300" height="300" alt="스크린샷 2026-01-19 105406" src="https://github.com/user-attachments/assets/6bc792b6-0c60-49b1-811f-af759045a81f" />
 
+<img width="1502" height="1043" alt="image" src="https://github.com/user-attachments/assets/52f5edff-3d05-445f-af21-fb54575ba404" />
+
 
 ## 📚 참고 자료
 
