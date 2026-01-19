@@ -315,7 +315,8 @@ void RGB_Demo_Rainbow(void)
 | 특정 색상만 동작 | GPIO 설정 오류 | AF 설정 확인 |
 
 
-🖼️ 이미지 (Images)
+## 🖼️ 이미지 (Images)
+
 Tera Term
 <br>
 <img width="426" height="463" alt="image" src="https://github.com/user-attachments/assets/e18dbdaa-fdd1-4265-ad6d-be14514284d0" />
