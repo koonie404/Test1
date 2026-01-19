@@ -494,7 +494,7 @@ Tera Term
 
 결과
 <br>
-
+https://youtube.com/shorts/_tHbxrZDrRI?feature=share
 
 ## 💡 응용 예제
 
