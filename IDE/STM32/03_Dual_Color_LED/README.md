@@ -486,12 +486,14 @@ PWM을 이용해 부드럽게 전환
 | 깜빡임 현상 | PWM 주파수 낮음 | Period 값 감소 |
 
 
-##🖼️ 이미지 (Images)
+## 🖼️ 이미지 (Images)
 
 Tera Term
 <br>
 <img width="100" height="200" alt="스크린샷 2026-01-19 140518" src="https://github.com/user-attachments/assets/b7e0ee2b-3be1-4960-9947-95b519f393a5" />
 
+결과
+<br>
 
 
 ## 💡 응용 예제
