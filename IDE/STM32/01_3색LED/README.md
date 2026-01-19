@@ -1,4 +1,4 @@
-# RGB LED Module Test - NUCLEO-F103RB
+	# RGB LED Module Test - NUCLEO-F103RB
 
 RGB LED 모듈을 STM32F103 NUCLEO 보드에서 PWM을 이용하여 제어하는 프로젝트입니다.
 
@@ -314,8 +314,7 @@ void RGB_Demo_Rainbow(void)
 | 특정 색상만 동작 | GPIO 설정 오류 | AF 설정 확인 |
 
 ## 🖼️ 이미지 (Images)
-[Tera Term]
-<img width="827" height="550" alt="스크린샷 2026-01-19 105406" src="https://github.com/user-attachments/assets/6a0d92ce-e77e-4c52-9ad8-2d321a267553" />
+[Tera Term] (img width="827" height="550" alt="스크린샷 2026-01-19 105406" src="https://github.com/user-attachments/assets/6a0d92ce-e77e-4c52-9ad8-2d321a267553")
 
 
 ## 📚 참고 자료
