@@ -77,7 +77,7 @@ void RGB_Demo_Rainbow(void);
 
 ### 색상 혼합 원리
 
-| 색상 | R | G | B | 설명 |
+| 색상 | R | G | B | 설명 | 사진 |
 |------|---|---|---|------|------|
 | Red | 255 | 0 | 0 | 빨강 |<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4bae05c4-ab7a-4d46-a6b5-6b4ca480485f" />|
 | Green | 0 | 255 | 0 | 초록 |<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fbe3cb80-4a36-4e94-89dd-49cce368053f" />|
