@@ -315,7 +315,7 @@ void RGB_Demo_Rainbow(void)
 | 특정 색상만 동작 | GPIO 설정 오류 | AF 설정 확인 |
 
 
-## 🖼️ 이미지 (Images)
+## 🖼️ **테스트 결과 이미지 (Test Outcome Images)**
 
 Tera Term
 <br>
