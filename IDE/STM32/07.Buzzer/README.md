@@ -196,6 +196,9 @@ void play_mario_theme(void) {
   /* USER CODE END 3 */
 ```
 
+https://youtube.com/shorts/IVrLj4cSsEA?feature=share
+
+
 ## 가습기도 가능할까?
 
 <img width="300" height="300" alt="128" src="https://github.com/user-attachments/assets/624c29d0-d512-4d49-ab3b-6123507a595a" />
