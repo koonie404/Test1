@@ -363,6 +363,7 @@ void LCD_CreateAllCustomChars(void) {
 
 ## 🖼️ **테스트 결과 이미지 (Test Outcome Images)**
 
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/66d08184-6ae0-4c82-b387-c51a2143268d" />
 
 
 
