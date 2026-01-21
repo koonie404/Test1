@@ -203,3 +203,6 @@ void LCD_PUTS(char *str) {
   /* USER CODE END 2 */
 ```
 
+## 🖼️ **테스트 결과 이미지 (Test Outcome Images)**
+
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/10970541-ac5b-43e1-8517-3930d7ae1225" />
