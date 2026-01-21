@@ -415,6 +415,8 @@ void display_servo_status(uint8_t pan, uint8_t tilt)
 |   Pan    | Horizontal(Left/Right) | ![KakaoTalk_20260120_122004104](https://github.com/user-attachments/assets/2dbdc422-5a14-4f38-bc14-38b9310d8c85) |
 
  # 카메라 얼굴 인식 
-![KakaoTalk_20260121_090618689](https://github.com/user-attachments/assets/e5a0e76b-81fa-4dde-942b-7586d0e8e4ea)
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b54bc1de-ec00-409c-933d-a23765edebb7" />
+
 
 
